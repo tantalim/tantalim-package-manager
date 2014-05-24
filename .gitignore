@@ -1,0 +1,13 @@
+.*
+!.gitignore
+
+# IntelliJ IDEA Files
+.idea
+.idea_modules/
+.settings/
+*.iml
+.DS_Store
+
+# Node
+.nodemonignore
+node_modules
