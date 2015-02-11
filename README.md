@@ -4,13 +4,7 @@ Package Manager for Tantalim Web Applications.
 
 ## Installation
 
-```
-$ npm install tantalim-pm
-```
 
-## About
-
-Inspired by bower and npm for managing Tantalim application dependencies.
 
 ## Initialize
 
